@@ -272,3 +272,8 @@
   .additional-info__extras-item{
     color: var(--secondary-text-color);
   }
+
+  .img__gif{
+    width: 100px;
+
+  }
